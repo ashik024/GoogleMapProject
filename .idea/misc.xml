@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Asus/Desktop/GoogleMapProject/app/src/main/res/drawable/edittext_top_curv_gray.xml" value="0.2703125" />
+        <entry key="..\:/Users/Asus/Desktop/GoogleMapProject/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Asus/Desktop/GoogleMapProject/app/src/main/res/layout/activity_maps.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/Desktop/GoogleMapProject/app/src/main/res/layout/activity_register.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
